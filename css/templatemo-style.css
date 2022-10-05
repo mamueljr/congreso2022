@@ -137,7 +137,7 @@ section {
 }
 
 #header .logo {
-  float: left;
+  float: left; 
 }
 
 #header .logo img {
